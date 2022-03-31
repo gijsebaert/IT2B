@@ -102,7 +102,7 @@ Tijdsgebonden
 
 ### Lijnorganisatie vs Projectorganisatie
 
-![Lijnorganisatie](/img/Lijnorganisatie.png)
+![Lijnorganisatie](/img/lijnorganisatie.png)
 
 Werkt met linking pins
 
